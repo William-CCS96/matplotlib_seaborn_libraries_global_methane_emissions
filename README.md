@@ -15,7 +15,7 @@ To achieve a more detailed understanding, an analysis of emissions is carried ou
 
 For more information share the notes in Notion of the course with more functions [View site ](https://aluminum-carbon-41d.notion.site/C-B-de-Visualizaci-n-de-Datos-con-Matplotlib-y-Seaborn-d58a2bf6689d4ca3b1e28fbb9a584086?pvs=4)
 
-<p align="center">
+<p>
   <img src="/images/output.png" alt="Grafico readme">
 </p>
 
