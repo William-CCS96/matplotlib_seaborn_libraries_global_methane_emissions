@@ -1,0 +1,11 @@
+# conda env create --file environment.yml
+name: matplotlib_seaborn_libraries_global_methane_emissions
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  - python=3.10.12
+  - pip:
+    
